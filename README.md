@@ -24,6 +24,9 @@ bundle install
 ```
 
 **4 contribute.**
+```
+write some h3ct1c c0d3
+```
 
 **5 build and Deploy**
 
