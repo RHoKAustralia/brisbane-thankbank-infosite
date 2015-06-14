@@ -12,7 +12,7 @@ middleman project whipped up the night after rhok winter 2015 ended
 git clone https://github.com/RHoKAustralia/brisbane-thankbank-infosite.git
 ```
 
-*2 Navigate into the directory**
+**2 Navigate into the directory**
 ```
 cd brisbane-thankbank-infosite
 ```
